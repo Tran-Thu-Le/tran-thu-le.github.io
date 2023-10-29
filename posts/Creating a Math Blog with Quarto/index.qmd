@@ -1,0 +1,14 @@
+---
+title: "Creating a Math Blog with Quarto"
+author: "Tran Thu Le"
+date: "2023-10-29"
+categories: [markdown, code, maths]
+---
+
+**Abstract.** This blog will give you the key words to start your own Math Blog.
+
+<img src="math.png" width="100%">
+
+
+
+
