@@ -2,6 +2,4 @@
 title: "About"
 ---
 
-My name is Tran Thu Le
-You can call me "Le" 
-
+XXX
