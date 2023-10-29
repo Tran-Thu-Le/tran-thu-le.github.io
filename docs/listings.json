@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/Creating a Math Blog with Quarto/index.html",
+      "/posts/post-with-code/index.html"
+    ]
+  },
+  {
+    "listing": "/index_x.html",
+    "items": [
+      "/posts/Creating a Math Blog with Quarto/index.html",
+      "/posts/post-with-code/index.html"
+    ]
+  }
+]

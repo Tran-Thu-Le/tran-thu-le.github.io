@@ -1,8 +1,5 @@
 ---
-title: "Home"
-resources: 
-  - data/CV_2023.pdf
-
+title: "test_blog"
 listing:
   contents: posts
   sort: "date desc"
@@ -13,7 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-
-
 
 

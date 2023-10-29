@@ -23,6 +23,12 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+```{python}
+for i in range(10):
+  print(i**2)
+```
+
+
 ```{r}
 x = c(1:10) 
 plot(x, x^2)

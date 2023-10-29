@@ -2,23 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "TRAN Thu Le",
+    "title": "Home",
     "section": "",
-    "text": "Welcome to my webpage! My name is Trần Thủ Lễ.\nCurrently, I am a Doctoral student in Mathematical Optimization at Université de Rennes 1, France.\nI am working under the supervisions of:\nValérie Monbet, Cédric Herzet, Hong-Phuong Dang, Joyce Giacofci, Clément Elvira"
+    "text": "Creating a Math Blog with Quarto\n\n\n\n\n\n\n\nmarkdown\n\n\ncode\n\n\nmaths\n\n\n\n\n\n\n\n\n\n\n\nOct 29, 2023\n\n\nTran Thu Le\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 29, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My name is Tran Thu Le You can call me “Le”"
+    "text": "Welcome to my webpage! My name is Trần Thủ Lễ.\nI am a PhD student in Mathematical Optimization at Université de Rennes 1, France.\nI am working under the supervisions of:\n\nValérie Monbet,\n\nCédric Herzet,\n\nHong-Phuong Dang,\n\nJoyce Giacofci,\n\nClément Elvira"
   },
   {
     "objectID": "topics.html",
     "href": "topics.html",
     "title": "Topics",
     "section": "",
-    "text": "Mathematics\n\nOptimization\nMachine learning\n\n\\[\\mathbf{E}=mc^2\\]\n\n\nProgramming\n\nPython\nJulia\nR\n\n\n\nTemplate\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nx = c(1:10) \nplot(x, x^2)"
+    "text": "Mathematics\n\nOptimization\nMachine learning\n\n\\[\\mathbf{E}=mc^2\\]\n\n\nProgramming\n\nPython\nJulia\nR\n\n\n\nTest Quarto\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nfor i in range(10):\n  print(i**2)\n\n0\n1\n4\n9\n16\n25\n36\n49\n64\n81\n\n\n\nx = c(1:10) \nplot(x, x^2)"
   },
   {
     "objectID": "research.html",
@@ -26,5 +26,40 @@
     "title": "Research",
     "section": "",
     "text": "Profile\n\nCV\nPublication\n\n\n\nExperience\n\nMath\nCode"
+  },
+  {
+    "objectID": "index_x.html",
+    "href": "index_x.html",
+    "title": "test_blog",
+    "section": "",
+    "text": "Creating a Math Blog with Quarto\n\n\n\n\n\n\n\nmarkdown\n\n\ncode\n\n\nmaths\n\n\n\n\n\n\n\n\n\n\n\nOct 29, 2023\n\n\nTran Thu Le\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 29, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "How to create a Math Blog",
+    "section": "",
+    "text": "Abstract. This blog will give you the key words to start your own Math Blog."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/quarto/index.html",
+    "href": "posts/quarto/index.html",
+    "title": "How to create a Math Blog",
+    "section": "",
+    "text": "Abstract. This blog will give you the key words to start your own Math Blog."
+  },
+  {
+    "objectID": "posts/Creating a Math Blog with Quarto/index.html",
+    "href": "posts/Creating a Math Blog with Quarto/index.html",
+    "title": "Creating a Math Blog with Quarto",
+    "section": "",
+    "text": "Abstract. This blog will give you the key words to start your own Math Blog."
   }
 ]

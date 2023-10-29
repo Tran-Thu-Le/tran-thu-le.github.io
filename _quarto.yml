@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "TRAN Thu Le"
+  title: "TRAN Thu Le's Blog"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - topics.qmd
       - research.qmd
-
+      - about.qmd
 format:
   html:
     theme: cosmo
