@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+My name is Tran Thu Le
+You can call me "Le" 
 
-```{r}
-1 + 1
-```

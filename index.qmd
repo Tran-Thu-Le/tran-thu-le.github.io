@@ -1,11 +1,11 @@
 ---
-title: "tran-thu-le.github.io"
+title: "About"
+image: data/le.png
+about:
+  template: jolla 
+  image-shape: round 
+  image-width: 15em
 ---
 
-This is a Quarto website.
+Welcome to my webpage!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 3
-```

@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "tran-thu-le.github.io",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "Welcome to my webpage"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Tran Thu Le You can call me “Le”"
+  },
+  {
+    "objectID": "topics.html",
+    "href": "topics.html",
+    "title": "Topics",
+    "section": "",
+    "text": "Mathematics\n\nOptimization\nMachine learning\n\n\\[\\mathbf{E}=mc^2\\]\n\n\nProgramming\n\nPython\nJulia\nR\n\n\n\nTemplate\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nx = c(1:10) \nplot(x, x^2)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Profile\n\nCV\nPublication\n\n\n\nExperience\n\nMath\nCode"
   }
 ]
